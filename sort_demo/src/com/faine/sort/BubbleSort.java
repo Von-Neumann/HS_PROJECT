@@ -7,7 +7,7 @@ import java.util.Arrays;
  *
  * this is a Bubble Sort code
  *
- * XXX
+ * XXXgi
  */
 public class BubbleSort {
 
