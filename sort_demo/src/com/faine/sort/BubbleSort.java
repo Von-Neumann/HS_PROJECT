@@ -2,6 +2,11 @@ package com.faine.sort;
 
 import java.util.Arrays;
 
+/**
+ * author: faine
+ *
+ * this is a Bubble Sort code
+ */
 public class BubbleSort {
 
     public static void main(String[] args) {
