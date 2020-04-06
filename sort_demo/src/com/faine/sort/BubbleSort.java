@@ -6,6 +6,8 @@ import java.util.Arrays;
  * author: faine
  *
  * this is a Bubble Sort code
+ *
+ * XXX
  */
 public class BubbleSort {
 
